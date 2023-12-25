@@ -1,22 +1,21 @@
-
-
 ![YouTube](https://www.semana.com/resizer/ned1feCGHNUk8TB8oflOKOdTMK8=/1280x720/smart/filters:format(jpg):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/semana/6BWSYZJFEBABBHCREQCNHH6SEQ.jpg)
-# Phân Tích Top 1000 YouTube Channels
 
-## Mục Đích
+# Analyzing Top 1000 YouTube Channels 📊
 
-Dự án này tập trung vào việc phân tích bộ dữ liệu Top 1000 YouTube Channels, cung cấp thông tin chi tiết về các kênh YouTube hàng đầu. Mục tiêu là nghiên cứu các yếu tố ảnh hưởng đến sự phát triển, thành công và mối quan hệ giữa các thuộc tính của các kênh YouTube.
+## 🎯 Objective
 
-## Lý Do Chọn Bộ Dữ Liệu
+This project focuses on analyzing the Top 1000 YouTube Channels dataset, providing detailed insights into leading YouTube channels. The goal is to research the factors influencing the growth, success, and interrelation of attributes among YouTube channels.
 
-YouTube là nền tảng chia sẻ video lớn nhất trên Internet và bộ dữ liệu Top 1000 YouTube Channels cung cấp thông tin quan trọng về các kênh hàng đầu. Bộ dữ liệu này giúp hiểu rõ hơn về xu hướng, thị phần và mối quan hệ giữa lượt đăng ký, lượt xem, số lượng video và các yếu tố khác.
+## 📚 Dataset Selection
 
-## Mục Tiêu
+YouTube stands as the largest video-sharing platform on the Internet, and the Top 1000 YouTube Channels dataset offers critical information about top channels. This dataset aids in understanding trends, market share, and the relationship between subscriptions, views, video count, and other factors.
 
-- Nghiên cứu yếu tố ảnh hưởng đến sự thành công của các kênh YouTube.
-- Hiểu rõ hơn về sự tương tác giữa lượt đăng ký, lượt xem và số lượng video của mỗi kênh.
-- Phân tích xu hướng phát triển của các lĩnh vực chủ đạo trên YouTube.
-- Đánh giá các yếu tố thành công của các kênh nổi tiếng.
-- Xây dựng mô hình dự đoán hoặc gợi ý cho sự phát triển kênh YouTube.
+## 🎯 Goals
 
-Nguồn bộ dữ liệu: [us.youtubers.me](https://us.youtubers.me/global/all/top-1000-most_subscribed-youtube-channels)
+- Research factors influencing the success of YouTube channels.
+- Understand the interaction between subscriptions, views, and video count for each channel.
+- Analyze trends in key niches on YouTube.
+- Evaluate success factors of popular channels.
+- Construct predictive models or recommendations for YouTube channel growth.
+
+Dataset Source: [us.youtubers.me](https://us.youtubers.me/global/all/top-1000-most_subscribed-youtube-channels)
